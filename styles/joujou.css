@@ -18,16 +18,16 @@ table { border-collapse: collapse; border-spacing: 0; }
 /* typography */
 
 h1 { font-size: 2em;
-	text-shadow: 1px 1px #ffffff;
 }
 h2 { font-size: 1.2em;
-	text-shadow: 1px 1px #ffffff;
 }
 h1, h2 { font-weight: bold; margin: 5px 0;
-	text-shadow: 1px 1px #ffffff;
+	color: rgb(255, 255, 255);
+	text-shadow: 1.5px 1.5px #000000;
 }
 p { font-size: 1em; margin: 5px 0;
-	text-shadow: 1px 1px #ffffff;
+	color: rgb(255, 255, 255);
+	text-shadow: 1.5px 1.5px #000000;
 }
 ul { padding-left: 10px; margin: 10px 0; list-style-type: disc;
 }
