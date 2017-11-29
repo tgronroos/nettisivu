@@ -33,9 +33,10 @@ header { margin-top: 10px; }
 /* Body */
 
 
-body {
-	background-color: lightblue;
-	margin: 0;
+background {
+    background-image: url(mckinley-bike-parking.jpeg);
+    background-position: right bottom;
+    background-repeat: no-repeat;
 }
 
 ul.sidenav{
