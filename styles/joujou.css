@@ -32,7 +32,10 @@ header { margin-top: 10px; }
 
 /* Body */
 
-
+body {
+	background-image: url("https://static.pexels.com/photos/2242/wall-sport-green-bike.jpg");
+	background-color: #cccccc;
+}
 
 
 ul.sidenav{
