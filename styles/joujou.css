@@ -18,15 +18,16 @@ table { border-collapse: collapse; border-spacing: 0; }
 /* typography */
 
 h1 { font-size: 2em;
+	
 }
 h2 { font-size: 1.2em;
 }
-h1, h2 { font-weight: bold; margin: 5px 0;
+h1, h2 { font-weight: bold; margin: 0.5em 0;
 	color: rgb(255, 255, 255);
 	text-shadow: 1.5px 1.5px #000000;
 	text-align: justify;
 }
-p { font-size: 1em; margin: 5px 0;
+p { font-size: 1em; margin: 0.3em 0;
 	color: rgb(255, 255, 255);
 	text-shadow: 1.5px 1.5px #000000;
 }
@@ -130,4 +131,8 @@ div.content {
 	color: black;
 	text-align: center;
 	z-index: -1;
+}
+
+div.contact {
+	margin-bottom: 1em;
 }
