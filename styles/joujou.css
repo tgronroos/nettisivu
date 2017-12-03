@@ -70,7 +70,7 @@ ul.sidenav{
 	margin: 0;
 	padding: 0;
 	width: 15%;
-	background-color: rgb(250, 166, 70);
+	background-color: rgb(5, 5, 5);
 	position: fixed;
 	height: 100%;
 	overflow: auto;
@@ -78,7 +78,7 @@ ul.sidenav{
 
 ul.sidenav li a {
 	display: block;
-	color: #000;
+	color: rgb( 255, 255, 255;
 	padding: 8px 0px;
 	text-decoration: none;
 }
